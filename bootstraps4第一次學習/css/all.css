@@ -1,0 +1,30 @@
+.myColor {
+    background-color: blueviolet !important;
+}
+
+.textColor {
+    color: blueviolet !important;
+}
+
+.breadcrumb {
+    background-color: transparent;
+}
+
+a:hover {
+    position: relative;
+    bottom: 1px;
+    left: 1px;
+    text-decoration: none !important;
+}
+
+.borderColor {
+    border-color: blueviolet;
+    border-width: 2px;
+}
+
+.imgBlock {
+    width: 64px;
+    height: 64px;
+    background-position: center center;
+    background-size: cover;
+}
